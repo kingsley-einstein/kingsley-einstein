@@ -15,5 +15,6 @@ Kingsley is also in love :sparkling_heart: :blush: with philosophy and is a fan 
 ### Stats :chart_with_downwards_trend:
 
 
-[![Kingsley's Github Stats](https://github-readme-stats.vercel.app/api?username=kingsley-einstein&count_private=true&show_icons=true&theme=nightowl)](https://github.com/kingsley-einstein) [![Kingsley's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=kingsley-einstein&show_icons=true&theme=nightowl)](https://github.com/kingsley-einstein)
+[![Kingsley's Github Stats](https://github-readme-stats.vercel.app/api?username=kingsley-einstein&count_private=true&show_icons=true&theme=nightowl)](https://github.com/kingsley-einstein) 
+[![Kingsley's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=kingsley-einstein&show_icons=true&theme=nightowl)](https://github.com/kingsley-einstein)
 
