@@ -1,23 +1,20 @@
 HI THERE :wave:
 ===============
 
-Welcome to my Github profile. I do hope you have a wonderful time going through my stats and repos.
 
 ### About
 
-Kingsley Victor is a full-stack software engineer :man_technologist: based in Nigeria :nigeria:. He has a passion for building stuff particularly with Java, JavaScript or Typescript and is a great fan of frameworks/libraries such as Spring Boot, Express, Angular and React. 
+Kingsley Victor is a full-stack software engineer :man_technologist: with a burning passion for technology. While he's not coding, he's dabbling in philosophy or playing video games. 
 
-Kingsley is also a budding DevOps engineer who's familiar with Docker, Travis and Jenkins and is open to learning new technologies. He's strongly passionate about RESTful APIs, GraphQL, Microservices, Blockchain (he's still learning this one), Cloud Computing (he's still learning this one), Serverless technology (he's still learning this one) and Big Data (he's still learning this one). The cool part is he's hoping to delve into machine learning and artificial intelligence in the not-so-distant future :rocket: :sparkles: :+1:.
+He is open to learning new things (reasonable, rational, non-woke things). Take time to go through his contributions and be the judge (whether or not you think it matters in the grand scheme of things.)
 
-
-Kingsley is also in love :sparkling_heart: :blush: with philosophy and is a fan of Plato, Anselm of Canterbury, Thomas Aqinas, Socrates and Rene Descartes.
 
 ### Stats :chart_with_downwards_trend:
 
 
-[![Kingsley's Github Stats](https://github-readme-stats.vercel.app/api?username=kingsley-einstein&count_private=true&show_icons=true&theme=nightowl)](https://github.com/kingsley-einstein) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kingsley-einstein)](https://git.io/streak-stats) 
 
-[![Kingsley's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=kingsley-einstein&show_icons=true&theme=nightowl)](https://github.com/kingsley-einstein)
+[![Kingsley's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingsley-einstein&show_icons=true&theme=tokyonight)](https://github.com/kingsley-einstein/github-readme-stats)
 
 [![Kingsley's CoderRank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kingsley-einstein)](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kingsley-einstein)
 
